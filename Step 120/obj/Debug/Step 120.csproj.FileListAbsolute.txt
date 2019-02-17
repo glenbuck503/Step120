@@ -1,0 +1,7 @@
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step 120\Step 120\bin\Debug\Step 120.exe.config
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step 120\Step 120\bin\Debug\Step 120.exe
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step 120\Step 120\bin\Debug\Step 120.pdb
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step 120\Step 120\obj\Debug\Step 120.csproj.CoreCompileInputs.cache
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step 120\Step 120\obj\Debug\Step 120.exe
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step 120\Step 120\obj\Debug\Step 120.pdb
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step 120\Step 120\obj\Debug\Step 120.csprojAssemblyReference.cache
